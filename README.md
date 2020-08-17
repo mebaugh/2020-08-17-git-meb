@@ -13,8 +13,15 @@
 - git commit -m "MESSAGE"
 - git status
 - history
+## remotes
 - `git remote add <>`
 - `git push origin master`
 - `git pull origin master`
+=======
 
-## Remotes
+
+
+
+
+- you can make changes elsewhere and the files will be combined automatically
+>>>>>>> 6763238567ffe222a06c05063880e907e9b4da64
