@@ -12,3 +12,6 @@
 - git commit -m "MESSAGE"
 - git status
 - history
+- `git remote add <>`
+- `git push origin master`
+- `git pull origin master`
