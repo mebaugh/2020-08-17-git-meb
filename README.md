@@ -7,3 +7,8 @@
 - `git add`: add new file
 - 'git commit': commits files in staging 
 - `git config --global  core.editor "nano -w"': set nano as default editor vs VIM 
+- `git diff`:
+- `git diff --staged`
+- git commit -m "MESSAGE"
+- git status
+- history
