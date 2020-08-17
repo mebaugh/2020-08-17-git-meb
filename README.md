@@ -1,4 +1,5 @@
 # 2020-08-17-git-meb
+## local
 
 - `git init`: created git repository in current folder
 - `git config`: --global user.name "Mary Elizabeth Baugh"
@@ -15,3 +16,5 @@
 - `git remote add <>`
 - `git push origin master`
 - `git pull origin master`
+
+## Remotes
