@@ -21,4 +21,4 @@
 
 
 
--you can make changes elsewhere and the files will be combined automatically
+- you can make changes elsewhere and the files will be combined automatically
