@@ -15,3 +15,10 @@
 - `git remote add <>`
 - `git push origin master`
 - `git pull origin master`
+
+
+
+
+
+
+-you can make changes elsewhere and the files will be combined automatically
